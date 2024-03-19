@@ -1,3 +1,3 @@
-# IA ROCKSEAT
+# IA ROCKTSEAT
 
-curso de ia da rockseat
+curso de ia da rocktseat
